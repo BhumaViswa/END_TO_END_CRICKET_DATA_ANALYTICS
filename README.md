@@ -1,6 +1,6 @@
 # ENE_TO_END_CRICKET_DATA_ANALYTICS
 
-# End-to-End Cricket Data Analytics Project
+
 
 This repository contains the code and resources for an end-to-end cricket data analytics project. The project focuses on selecting players for a T20 World Cup team using web scraping, Python, Pandas, and Power BI.
 
